@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    <head>
+        <title>Find the precious</title>
+    </head>
+    <body>
+        <header>
+            <h1>Find the precious.com</h1>
+            <nav>
+                <ul>
+                    <li><a href='#'>Fellows</a></li>
+                    <li><a href='#'>Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+
+            <div class="banner">
+                <h2>Dangerous fellowship try to destroy the ring</h2>
+                <h3>Orcs, Goblins, Balrogs, protect your master Sauron!</h3>
+                <img src="https://via.placeholder.com/800x200" alt="A great team of Sauron's friends">
+            </div>
+
+            <div class="fellows-wanted">
+                <p>Fellows wanted dead (or alive if you want to eat them later)</p>
+                <div class="the-wizard">
+                    <img src="https://via.placeholder.com/200x200" alt="The wizard">
+                    <p>Reward 1000 gold coins</p>
+                    <h3>The Wizard</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                <div class="hobbit-3">
+                        <img src="https://via.placeholder.com/200x200" alt="The wizard">
+                        <h3>Hobbit #3</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                <div class="Yummy Dwarf">
+                        <img src="https://via.placeholder.com/200x200" alt="The wizard">
+                        <p>Reward 250 gold coins</p>
+                        <h3>Yummy Dwarf</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                </div>
+            <div class="formulaire">
+                <form method="post" action="traitement.php">
+                    <input type="text" name="email" placeholder="@">
+                    <input type="text" name="email" placeholder="&#127968">
+                    <label for="fellowship">I have seen one of them</label>
+                    <select name="fellowship" id="fellowship">
+                        <option value="The Wizard">The Wizard</option>
+                        <option value="Hobbit">Hobbit #3</option>
+                        <option value="Yummy Dwarf">Yummy Dwarf</option>                
+                    </select>
+                    <textarea name="yourtext" id="yourtext" rows="10" cols="50">Your message</textarea> 
+                </form>
+            </div>
+        </main>
+        <footer>
+            <nav class="part1">
+                <ul>
+                    <li>About Us</li>
+                    <li>Fellows</li>
+                    <li>Join our army</li>
+                </ul>
+            </nav>
+            <nav class="part2">
+                <ul>
+                    <li>FAQ</li>
+                    <li>Reward conditions</li>
+                    <li>Legal mentions</li>
+                </ul>     
+            </nav>
+            <h3>Sauron4Ever.com</h3>
+            <p>Follow him also on twitter</p>
+        </footer>
+    </body>
+</html>
