@@ -13,7 +13,7 @@
             <h1>Find the precious.com</h1>
             <nav>
                 <ul>
-                    <li><a href='#'title="the best sauron's fellows ">Fellows</a></li>
+                    <li><a href='#' title="the best sauron's fellows ">Fellows</a></li>
                     <li><a href='#' title="if you want to be in touch with the dark, please feel free to contact us">Contact Us</a></li>
                 </ul>
             </nav>
@@ -48,8 +48,10 @@
                 </div>
             <div class="formulaire">
                 <form method="post" action="traitement.php">
-                    <input type="text" name="email" placeholder="@">
-                    <input type="text" name="email" placeholder="&#127968">
+                    <label for="name"></label>
+                    <input type="text" id="name" name="email" placeholder="@">
+                    <label for="address"></label>
+                    <input type="text" id="address" name="ads" placeholder="&#127968;">
                     <label for="fellowship">I have seen one of them</label>
                     <select name="fellowship" id="fellowship">
                         <option value="The Wizard">The Wizard</option>
