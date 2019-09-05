@@ -1,0 +1,21 @@
+
+/*CSS FILE*/
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius : 8px;         
+}
+
+.hover-effect:hover {
+    opacity : 0.8;         
+    cursor: pointer;
+}
+
+section img:nth-child(3) {
+    filter : grayscale(100%);     
+}
